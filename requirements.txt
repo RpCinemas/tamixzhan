@@ -24,7 +24,7 @@ hachoir
 python-decouple 
 ffmpeg
 youtube_search
-pymongo[srv]==3.12.3 
+pymongo
 motor==2.5.1 
 marshmallow==3.14.1 
 umongo==3.0.1 
@@ -37,9 +37,9 @@ python-dotenv==0.21.1
 gTTS==2.3.1 
 speedtest==0.0.1 
 humanize==4.6.0 
-Pillow==9.4.0 
+Pillow
 psutil==5.9.4 
-dnspython==2.3.0
+dnspython
 ffmpeg-python>=0.2.0
 pyromod==1.5
 openai==0.25.0
