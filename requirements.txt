@@ -1,4 +1,4 @@
-pyrofork==2.3.44
+pyrofork==2.3.45
 tgcrypto 
 requests 
 bs4 
@@ -24,7 +24,7 @@ hachoir
 python-decouple 
 ffmpeg
 youtube_search
-pymongo
+pymongo[srv]==3.12.3
 motor==2.5.1 
 marshmallow==3.14.1 
 umongo==3.0.1 
