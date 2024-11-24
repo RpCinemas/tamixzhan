@@ -66,8 +66,8 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'kingvj01') # owner username without @
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+xf-ZCdd9kpQ0Y2M1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/RP_Cinemass')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/RP_RequestGroup')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Rp_Cinemaz')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'RP_Cinemas') # Support Chat Link Without https:// or @
 
